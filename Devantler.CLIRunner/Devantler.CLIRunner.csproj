@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CLIWrap" Version="3.7.1" />
+    <PackageReference Include="CLIWrap" Version="3.8.0" />
   </ItemGroup>
 
 </Project>
